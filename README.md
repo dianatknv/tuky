@@ -1,2 +1,0 @@
-# Tukenova Diana
-# PP2
