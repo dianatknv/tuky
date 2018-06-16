@@ -1,0 +1,10 @@
+C:\Users\DianaTknv\Documents\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\DianaTknv\Documents\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\DianaTknv\Documents\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\DianaTknv\Documents\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\DianaTknv\Documents\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\DianaTknv\Documents\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\DianaTknv\Documents\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\DianaTknv\Documents\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\DianaTknv\Documents\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\DianaTknv\Documents\Paint\Paint\obj\Debug\Paint.pdb
