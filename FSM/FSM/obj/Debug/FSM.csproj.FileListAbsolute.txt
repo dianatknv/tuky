@@ -1,0 +1,10 @@
+C:\Users\DianaTknv\Documents\FSM\FSM\bin\Debug\FSM.exe.config
+C:\Users\DianaTknv\Documents\FSM\FSM\bin\Debug\FSM.exe
+C:\Users\DianaTknv\Documents\FSM\FSM\bin\Debug\FSM.pdb
+C:\Users\DianaTknv\Documents\FSM\FSM\obj\Debug\FSM.csprojResolveAssemblyReference.cache
+C:\Users\DianaTknv\Documents\FSM\FSM\obj\Debug\FSM.Form1.resources
+C:\Users\DianaTknv\Documents\FSM\FSM\obj\Debug\FSM.Properties.Resources.resources
+C:\Users\DianaTknv\Documents\FSM\FSM\obj\Debug\FSM.csproj.GenerateResource.cache
+C:\Users\DianaTknv\Documents\FSM\FSM\obj\Debug\FSM.csproj.CoreCompileInputs.cache
+C:\Users\DianaTknv\Documents\FSM\FSM\obj\Debug\FSM.exe
+C:\Users\DianaTknv\Documents\FSM\FSM\obj\Debug\FSM.pdb
