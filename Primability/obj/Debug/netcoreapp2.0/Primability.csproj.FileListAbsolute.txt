@@ -1,0 +1,11 @@
+/Users/diana/Projects/lab1/Primability/bin/Debug/netcoreapp2.0/Primability.deps.json
+/Users/diana/Projects/lab1/Primability/bin/Debug/netcoreapp2.0/Primability.runtimeconfig.json
+/Users/diana/Projects/lab1/Primability/bin/Debug/netcoreapp2.0/Primability.runtimeconfig.dev.json
+/Users/diana/Projects/lab1/Primability/bin/Debug/netcoreapp2.0/Primability.dll
+/Users/diana/Projects/lab1/Primability/bin/Debug/netcoreapp2.0/Primability.pdb
+/Users/diana/Projects/lab1/Primability/obj/Debug/netcoreapp2.0/Primability.csprojResolveAssemblyReference.cache
+/Users/diana/Projects/lab1/Primability/obj/Debug/netcoreapp2.0/Primability.csproj.CoreCompileInputs.cache
+/Users/diana/Projects/lab1/Primability/obj/Debug/netcoreapp2.0/Primability.AssemblyInfoInputs.cache
+/Users/diana/Projects/lab1/Primability/obj/Debug/netcoreapp2.0/Primability.AssemblyInfo.cs
+/Users/diana/Projects/lab1/Primability/obj/Debug/netcoreapp2.0/Primability.dll
+/Users/diana/Projects/lab1/Primability/obj/Debug/netcoreapp2.0/Primability.pdb
